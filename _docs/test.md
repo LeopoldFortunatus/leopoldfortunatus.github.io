@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Католичество
+title: testdocs
 ---
 
 ### test
